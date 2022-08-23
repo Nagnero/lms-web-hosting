@@ -1,0 +1,181 @@
+body {
+    margin: 0;
+}
+
+header {
+    width: 100;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 100px 0px 100px;
+    box-shadow: 0 10px 10px -10px black;
+}
+
+#header-wrapper {
+    min-width: 1200px;
+}
+
+.header-link{
+    text-decoration: none;
+    color: black;
+}
+
+.logo-title{
+    display: flex;
+    align-items: center;
+}
+
+.title{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.header-item a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+}
+
+.information{
+    margin-right: 60px;
+    padding-bottom: 60px;
+}
+
+#semi-content {
+    font-size: 18px;
+}
+
+.ask-lists{
+    background-color: #d6e6faec;
+    border-radius: 3px;
+}
+
+.ask-lists li{
+    font-size: 16px;
+    padding: 20px;
+    margin: 0px 20px 0px 0px;
+    width: 250px;
+    border-bottom: #4B89DC solid 1px;
+}
+
+.ask-lists li:last-child{
+    border: none;
+}
+
+
+
+input {
+    font-size: 18px;
+    height: 30px;
+}
+
+#FormId{
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+}
+
+#FormId>div{
+    padding: 10px;
+}
+
+.ask-title, .text{display: flex;}
+.elem{
+    width: 80px;
+    font-size: 18px;
+}
+.full-name{
+    display: flex;
+    align-items: center;
+}
+
+.name-input {
+    flex: auto;
+}
+
+.email {
+    display: flex;
+}
+
+#email-input {
+    width: max-content;
+    flex: auto;
+}
+
+select {
+    flex: auto;
+    font-size: 18px;
+    height: 30px;
+}
+
+.text{
+    width: auto;
+    border-bottom: #4B89DC solid 1px;
+    padding-bottom: 20px;
+}
+
+textarea {
+    flex: auto;
+    columns: 50;
+}
+
+
+#policy{
+    font-size: 12px;
+    margin-left: auto;
+}
+
+#submit-btn{
+    margin-left: auto;
+    float: right;
+    width: 150px;
+    height: 35px;
+    font-size: 15px;
+    color: white;
+    background-color: #4B89DC;
+    border: none;
+    border-radius: 3px;
+}
+
+.border-style {
+    border: solid 1px #4B89DC;
+    border-radius: 3px;
+}
+
+
+
+#wrapper{
+    height: 2700px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    background-color: rgba(75, 137, 220, 1);
+}
+
+footer div {
+    height: 30px;
+    position: absolute;
+    top: 40%;
+    right: 0%;
+    color: white;
+    font-size: 14px;
+    margin-right: 80px;
+}

@@ -1,0 +1,41 @@
+[33mcommit 95768ff3aece13d87f579772d0afc90a67739836[m[33m ([m[1;36mHEAD -> [m[1;32mnero[m[33m, [m[1;31morigin/nero[m[33m, [m[1;31morigin/iyeni[m[33m)[m
+Author: Nagnero <davidyeon123@naver.com>
+Date:   Sat Jul 2 02:35:45 2022 +0900
+
+    과제리스트 완료; 달력 크기 유지
+
+[33mcommit b7afd679b4e362fdae4edca5a48dc8b3b97d7413[m
+Author: Nagnero <davidyeon123@naver.com>
+Date:   Sat Jul 2 01:42:34 2022 +0900
+
+    paint 함수 수정 완료
+
+[33mcommit fe0b61f2b098479ff0f90d3141b977fd623c7b1d[m
+Author: Nagnero <davidyeon123@naver.com>
+Date:   Fri Jul 1 19:43:18 2022 +0900
+
+    attribute 오타 수정; paint함수 수정 필요
+
+[33mcommit 4f9775ca514ccbc8413e205ac508b2c9ef436294[m
+Author: Nagnero <davidyeon123@naver.com>
+Date:   Fri Jul 1 18:25:41 2022 +0900
+
+    완료 체크박스
+
+[33mcommit cbb0a2b8d4a071e9ac50a8cb382c97b3100cb864[m
+Author: Nagnero <davidyeon123@naver.com>
+Date:   Fri Jul 1 17:01:57 2022 +0900
+
+    과제리스트 추가, 투두와 구분 필요
+
+[33mcommit 95736c242034e3f72bf604aa783b96e168cbb828[m
+Author: Nagnero <davidyeon123@naver.com>
+Date:   Fri Jul 1 14:54:54 2022 +0900
+
+    flexbox modification
+
+[33mcommit b435bfea8563bc1a190b54e871356fe3a43600d3[m
+Author: Nagnero <davidyeon123@naver.com>
+Date:   Fri Jul 1 14:13:55 2022 +0900
+
+    first commit
